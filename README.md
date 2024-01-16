@@ -4,31 +4,32 @@
 
 # `Hello World, I'm Kabir Asani 👋🏽`
 
-**`I am`**
+**`👋🏽` I am a self-thought developer**
+- dabbling across domains
+- incurable experimentalist
+- digital creator
 
--   `👨🏽‍💻` Developer
--   `🎥` Creator
+**`👨🏽‍💻` Experience**
 
-**`Developer`**
 
 -   `📱` Mobile Stack
-    -   [`SwiftUI`](https://developer.apple.com/xcode/swiftui/) • `⭐️⭐️⭐️⭐️⭐️`
-    -   [`Flutter`](https://flutter.dev/) • `⭐️⭐️⭐️⭐️` `⭐️`
-    -   [`Jetpack Compose `](https://developer.android.com/jetpack/compose) • `⭐️⭐️⭐️⭐️` `⭐️`
-    -   [`React Native`](https://reactnative.dev/) • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `SwiftUI` • `⭐️⭐️⭐️⭐️⭐️`
+    -   `Flutter` • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `Jetpack Compose` • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `React Native` • `⭐️⭐️⭐️⭐️` `⭐️`
 -   `🖥️` Web Stack
-    -   [`React`](https://react.dev/) • `⭐️⭐️⭐️⭐️⭐`️
-    -   [`Svelte`](https://svelte.dev/) • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `React` • `⭐️⭐️⭐️⭐️⭐`️
+    -   `Svelte` • `⭐️⭐️⭐️⭐️` `⭐️`
 -   `📡` Backend Stack
-    -   [`NodeJS`](https://nodejs.org/en/) • `⭐️⭐️⭐️⭐️⭐️`
-    -   [`Flask`](https://flask.palletsprojects.com/en/3.0.x/) • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `NodeJS` • `⭐️⭐️⭐️⭐️⭐️`
+    -   `Flask` • `⭐️⭐️⭐️⭐️` `⭐️`
 
-**`Creator`**
+**`🎥` Creator**
 
 -   [`@kabirstack > Instagram`](https://www.instagram.com/kabirstack/)
 -   [`@kabirstack > Twitter`](https://twitter.com/kabirstack)
 
-**`Official Socials`**
+**`🔗` Official Socials**
 
 -   [`@kabir.asani > Instagram`](https://www.instagram.com/kabir.asani/)
 -   [`@KabirAsani > Twitter`](https://twitter.com/KabirAsani)
