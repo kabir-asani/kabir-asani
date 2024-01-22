@@ -26,10 +26,15 @@
 
 **`🎥` Creator**
 
--   [`@kabirstack > Instagram`](https://www.instagram.com/kabirstack/)
--   [`@kabirstack > Twitter`](https://twitter.com/kabirstack)
-
-**`🔗` Official Socials**
-
--   [`@kabir.asani > Instagram`](https://www.instagram.com/kabir.asani/)
--   [`@KabirAsani > Twitter`](https://twitter.com/KabirAsani)
+-   Instagram
+    -   [`@kabirstack`](https://www.instagram.com/kabirstack)
+    -   [`@kabir.asani`](https://www.instagram.com/kabir.asani)
+-   Twitter
+    -   [`@kabirstack`](https://twitter.com/kabirstack)
+    -   [`@KabirAsani`](https://twitter.com/KabirAsani)
+-   Reddit
+    -   [`r/kabirstack`](https://www.reddit.com/r/kabirstack)
+    -   [`r/kabirasani`](https://www.reddit.com/r/kabirasani)
+-   Discord
+    -   [`Kabir Stack`](https://discord.gg/cq74wujF)
+    -   [`Kabir Asani`](https://discord.gg/XPZYqV5U)
