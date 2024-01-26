@@ -29,6 +29,7 @@
 -   Instagram
     -   [`@kabirstack`](https://www.instagram.com/kabirstack)
     -   [`@kabir.asani`](https://www.instagram.com/kabir.asani)
+    -   [`@kabirsasani`](https://www.instagram.com/kabirsasani)
 -   Twitter
     -   [`@kabirstack`](https://twitter.com/kabirstack)
     -   [`@KabirAsani`](https://twitter.com/KabirAsani)
