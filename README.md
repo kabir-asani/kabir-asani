@@ -11,7 +11,6 @@
 
 **`👨🏽‍💻` Experience**
 
-
 -   `📱` Mobile Stack
     -   `SwiftUI` • `⭐️⭐️⭐️⭐️⭐️`
     -   `Flutter` • `⭐️⭐️⭐️⭐️⭐️`
@@ -27,15 +26,11 @@
 **`🎥` Creator**
 
 -   Instagram
-    -   [`@kabirstack`](https://www.instagram.com/kabirstack)
-    -   [`@kabirsasani`](https://www.instagram.com/kabirsasani)
-    -   [`@kabir.asani`](https://www.instagram.com/kabir.asani)
+    -   [`KabirStack`](https://www.instagram.com/kabirstack)
+    -   [`KStackDev`](https://www.instagram.com/kstackdev)
 -   Twitter
-    -   [`@kabirstack`](https://twitter.com/kabirstack)
-    -   [`@KabirAsani`](https://twitter.com/KabirAsani)
+    -   [`KabirAsani`](https://twitter.com/KabirAsani)
 -   Reddit
-    -   [`r/kabirstack`](https://www.reddit.com/r/kabirstack)
-    -   [`r/kabirasani`](https://www.reddit.com/r/kabirasani)
+    -   [`u/kabirasani`](https://www.reddit.com/u/kabirasani)
 -   Discord
-    -   [`Kabir Stack`](https://discord.gg/cq74wujF)
-    -   [`Kabir Asani`](https://discord.gg/XPZYqV5U)
+    -   [`KStack`](https://discord.gg/4VZ5P7WJ)
