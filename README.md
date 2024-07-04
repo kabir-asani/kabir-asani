@@ -23,14 +23,21 @@
     -   `NodeJS` • `⭐️⭐️⭐️⭐️⭐️`
     -   `Flask` • `⭐️⭐️⭐️⭐️` `⭐️`
 
+
+**`🚀` Projects**
+- `🤖` [`AI Shorts`](https://aishorts.club)
+    -   `📱` [`Mobile App`](https://play.google.com/store/apps/details?id=co.goshorts.titanium)
+    -   `📰` [`Newsletter`](https://newsletter.aishorts.club)
+- `👤` [`Portfolio`](https://kabirasani.com)
+- `🕊️` [`TwitterX`](https://www.linkedin.com/posts/kabirasani_twitter-clone-project-activity-6944370487321849857-muee)
+
+
 **`🎥` Creator**
 
+-   LinkedIn
+    -   [`Kabir Asani`](https://linkedin.in/in/kabirasani)
 -   Instagram
     -   [`KabirStack`](https://www.instagram.com/kabirstack)
     -   [`KStackDev`](https://www.instagram.com/kstackdev)
--   Twitter
+-   X (formerly Twitter)
     -   [`KabirAsani`](https://twitter.com/KabirAsani)
--   Reddit
-    -   [`u/kabirasani`](https://www.reddit.com/u/kabirasani)
--   Discord
-    -   [`KStack`](https://discord.gg/4VZ5P7WJ)
