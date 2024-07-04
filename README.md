@@ -12,16 +12,15 @@
 **`👨🏽‍💻` Experience**
 
 -   `📱` Mobile Stack
-    -   `SwiftUI` • `⭐️⭐️⭐️⭐️⭐️`
-    -   `Flutter` • `⭐️⭐️⭐️⭐️⭐️`
-    -   `Jetpack Compose` • `⭐️⭐️⭐️⭐️` `⭐️`
-    -   `React Native` • `⭐️⭐️⭐️` `⭐️⭐️`
+    -   `iOS App Developement | Swift` • `⭐️⭐️⭐️⭐️⭐️`
+    -   `Flutter App Development | Dart` • `⭐️⭐️⭐️⭐️⭐️`
+    -   `React Native App Development | JavaScript & TypeScript` • `⭐️⭐️⭐️` `⭐️⭐️`
 -   `🖥️` Web Stack
-    -   `React` • `⭐️⭐️⭐️` `⭐️⭐`️
-    -   `Svelte` • `⭐️` `⭐️⭐️⭐️⭐️`
+    -   `NextJS | HTML, CSS, JavaScript & TypeScript` • `⭐️⭐️` `⭐️⭐️⭐`️
+    -   `Svelte | HTML, CSS, JavaScript & TypeScript` • `⭐️⭐️` `⭐️⭐️⭐️`
 -   `📡` Backend Stack
-    -   `NodeJS` • `⭐️⭐️⭐️⭐️⭐️`
-    -   `Flask` • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `NodeJS | JavaScript & TypeScript` • `⭐️⭐️⭐️⭐️` `⭐️`
+    -   `Flask | Python` • `⭐️⭐️⭐️` `⭐️⭐️`
 
 
 **`🚀` Projects**
