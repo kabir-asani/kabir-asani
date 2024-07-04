@@ -36,7 +36,7 @@
 -   LinkedIn
     -   [`Kabir Asani`](https://linkedin.in/in/kabirasani)
 -   Instagram
-    -   [`KabirStack`](https://www.instagram.com/kabirstack)
-    -   [`KStackDev`](https://www.instagram.com/kstackdev)
+    -   [`@kabirstack`](https://www.instagram.com/kabirstack)
+    -   [`@kstackdev`](https://www.instagram.com/kstackdev)
 -   X (formerly Twitter)
-    -   [`KabirAsani`](https://twitter.com/KabirAsani)
+    -   [`@KabirAsani`](https://twitter.com/KabirAsani)
