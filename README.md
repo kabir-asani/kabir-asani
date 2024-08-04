@@ -12,28 +12,31 @@
 **`👨🏽‍💻` `Experience`**
 
 -   `📱` `Mobile Stack`
-    -   `iOS App Developement | Swift` • `⭐️⭐️⭐️⭐️⭐️`
-    -   `Flutter App Development | Dart` • `⭐️⭐️⭐️⭐️⭐️`
-    -   `React Native App Development | JavaScript & TypeScript` • `⭐️⭐️⭐️` `⭐️⭐️`
+    -   iOS App Developement `⭐️⭐️⭐️⭐️⭐️`
+    -   Flutter App Development `⭐️⭐️⭐️⭐️⭐️`
+    -   React Native App Development `⭐️⭐️⭐️` `⭐️⭐️`
 -   `🖥️` `Web Stack`
-    -   `NextJS | HTML, CSS, JavaScript & TypeScript` • `⭐️⭐️` `⭐️⭐️⭐`️
-    -   `Svelte | HTML, CSS, JavaScript & TypeScript` • `⭐️⭐️` `⭐️⭐️⭐️`
+    -   NextJS `⭐️⭐️` `⭐️⭐️⭐`️
+    -   Svelte `⭐️⭐️` `⭐️⭐️⭐️`
 -   `📡` `Backend Stack`
-    -   `NodeJS | JavaScript & TypeScript` • `⭐️⭐️⭐️⭐️` `⭐️`
-    -   `Flask | Python` • `⭐️⭐️⭐️` `⭐️⭐️`
+    -   NodeJS `⭐️⭐️⭐️⭐️` `⭐️`
+    -   Flask `⭐️⭐️⭐️` `⭐️⭐️`
 
 
 **`🚀` `Projects`**
-- `🤖` [`AI Shorts`](https://aishorts.club)
-    -   `📱` [`iOS App`](https://aishorts.club/ios-app)
-    -   `📱` [`Android App`](https://aishorts.club/android-app)
-    -   `🕸️` [`Website`](https://aishorts.club)
-    -   `📰` [`Newsletter`](https://newsletter.aishorts.club)
-- `👤` [`Portfolio`](https://kabirasani.com)
-- `🕊️` [`TwitterX`](https://www.linkedin.com/posts/kabirasani_twitter-clone-project-activity-6944370487321849857-muee)
+- `🤖` `AI Shorts` `RELEASED`
+    -   [`iOS App`](https://aishorts.club/ios-app)
+    -   [`Android App`](https://aishorts.club/android-app)
+- `👾` `Silicon` `Open Source`
+    -   [`GitHub Repository`](https://github.com/kabir-asani/Silicon)
+- `👤` `Portfolio`
+    -   [`GitHub Repository`](https://github.com/kabir-asani/chaos)
+- `🕊️` `TwitterX`
+    -   [`GitHub Repository`](https://github.com/kabir-asani/TonyStark)
+    -   [`Launch Post`](https://www.linkedin.com/posts/kabirasani_twitter-clone-project-activity-6944370487321849857-muee)
 
 
-**`🎥` `Creator`**
+**`🎥` `Creator / Socials`**
 
 -   LinkedIn
     -   [`Kabir Asani`](https://linkedin.in/in/kabirasani)
