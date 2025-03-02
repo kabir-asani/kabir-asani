@@ -1,56 +1,37 @@
-# Hello World, I'm Kabir Asani 👋🏽
+<!--
+**kabir-asani/kabir-asani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+# `Hello World, I'm Kabir Asani 👋🏽`
 
-- 👋🏽 Developer + Creator
-- 🌍 Dabbler across domains  
-- 🚀 Incurable experimentalist  
+A self-taught `Full-Stack Mobile Developer`. 
+* I develop mobile applications in `Flutter`, `React Native`, `SwiftUI` and `Compose`.
+* I develop web applications in `Next.js` and `Svelte`.
+* I develop backend applications in `Node.js` and `Sprint Boot`.
 
----
+### Experience
 
-### **👨🏽‍💻 Experience**
+- Mobile
+  - `Flutter (Dart)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `SwiftUI (Swift)` • `⭐️⭐️⭐️⭐️` `⭐️`
+  - `React Native (JS/TS)` • `⭐️⭐️⭐️⭐️` `⭐️`
+  - `Compose (Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
-- **📱 Mobile Stack:**
-  - **Flutter** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **React Native** ![4 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **SwiftUI** ![5 stars](https://img.shields.io/badge/⭐️-4-orange)
-  - **Compose** ![5 stars](https://img.shields.io/badge/⭐️-4-orange)
+- Web
+  - `Next.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `Svelte (JS/TS)` • `⭐️⭐️⭐️` `⭐️⭐️`
+ 
+- Back End
+  - `Node.js (JS/TS)` • `⭐️⭐️⭐️⭐️⭐️`
+  - `Sprint Boot (Java/Kotlin)` • `⭐️⭐️⭐️` `⭐️⭐️`
 
-- **🖥️ Web Stack:**
-  - **Next.js** ![3 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **Svelte** ![3 stars](https://img.shields.io/badge/⭐️-4-orange)
-
-- **📡 Backend Stack:**
-  - **Node.js** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **Flask** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
-  - **PostgreSQL** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
-  - **MongoDB** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
-
----
-
-### **🚀 Projects**
-
-- **🤖 AI Shorts**
-  - [iOS App](https://aishorts.club/ios-app)
-  - [Android App](https://aishorts.club/android-app)
-
-- **👾 Silicon**
-  - [GitHub Repository](https://github.com/kabir-asani/Silicon)
-
-- **👤 Portfolio**
-  - [GitHub Repository](https://github.com/kabir-asani/chaos)
-
-- **🛍️ Togger**
-  - [iOS App](https://toggerclub.com/ios-app)
-  - [Android App](https://toggerclub.club/android-app)
+### Projects
+- [`AI Shorts (Byte-sized AI News)`](https://aishorts.club/)
+- [`Togger (Tinder for Shopping)`](https://toggerclub.com)
+- [`Silicon (Swift DSL)`](https://github.com/kabir-asani/Silicon)
 
 ---
 
-### **🎥 Creator / Socials**
+If not engineering software products, I create reels on Instagram ([`@kabirstack`](https://instagram.com/kabirstack))
 
-- **LinkedIn:** [Kabir Asani](https://linkedin.in/in/kabirasani)
-- **Instagram:** [@kabirstack](https://www.instagram.com/kabirstack)
-- **X (formerly Twitter):** [@KabirAsani](https://twitter.com/KabirAsani)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabir-asani&layout=compact&theme=nord)
-
+- 🕸 [`X@KabirAsani`](https://twitter.com/KabirAsani) • [`LinkedIn`](https://www.linkedin.com/in/kabirasani/)
+- ⚡ I hail from [`India (🇮🇳)`](https://en.wikipedia.org/wiki/India) which houses one of the [`7 wonders`](https://en.wikipedia.org/wiki/Taj_Mahal)!
