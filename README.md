@@ -1,30 +1,32 @@
 # Hello World, I'm Kabir Asani 👋🏽
 
-**`👋🏽 Self-Taught Developer & Digital Creator`**  
+- 👋🏽 Developer + Creator
 - 🌍 Dabbler across domains  
 - 🚀 Incurable experimentalist  
 
 ---
 
-**`👨🏽‍💻 Experience`**
+### **👨🏽‍💻 Experience**
 
 - **📱 Mobile Stack:**
-  - **iOS** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
   - **Flutter** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **React Native** ![4 stars](https://img.shields.io/badge/⭐️-4-yellow)
+  - **React Native** ![4 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
+  - **SwiftUI** ![5 stars](https://img.shields.io/badge/⭐️-4-orange)
+  - **Compose** ![5 stars](https://img.shields.io/badge/⭐️-4-orange)
 
 - **🖥️ Web Stack:**
-  - **NextJS** ![3 stars](https://img.shields.io/badge/⭐️-3-yellow)
-  - **Svelte** ![3 stars](https://img.shields.io/badge/⭐️-3-yellow)
+  - **Next.js** ![3 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
+  - **Svelte** ![3 stars](https://img.shields.io/badge/⭐️-4-orange)
 
 - **📡 Backend Stack:**
-  - **NodeJS** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
-  - **Flask** ![4 stars](https://img.shields.io/badge/⭐️-4-yellow)
-  - **PostgreSQL** ![4 stars](https://img.shields.io/badge/⭐️-4-yellow)
-  - **MongoDB** ![4 stars](https://img.shields.io/badge/⭐️-4-yellow)
+  - **Node.js** ![5 stars](https://img.shields.io/badge/⭐️-5-brightgreen)
+  - **Flask** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
+  - **PostgreSQL** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
+  - **MongoDB** ![4 stars](https://img.shields.io/badge/⭐️-4-orange)
+
 ---
 
-**`🚀 Projects`**
+### **🚀 Projects**
 
 - **🤖 AI Shorts**
   - [iOS App](https://aishorts.club/ios-app)
@@ -36,16 +38,16 @@
 - **👤 Portfolio**
   - [GitHub Repository](https://github.com/kabir-asani/chaos)
 
-- **🕊️ TwitterX**
-  - [GitHub Repository](https://github.com/kabir-asani/TonyStark)
-  - [Launch Post](https://www.linkedin.com/posts/kabirasani_twitter-clone-project-activity-6944370487321849857-muee)
+- **🛍️ Togger**
+  - [iOS App](https://toggerclub.com/ios-app)
+  - [Android App](https://toggerclub.club/android-app)
 
 ---
 
-**`🎥 Creator / Socials`**
+### **🎥 Creator / Socials**
 
 - **LinkedIn:** [Kabir Asani](https://linkedin.in/in/kabirasani)
-- **Instagram:** [@kabirstack](https://www.instagram.com/kabirstack) • [@kstackdev](https://www.instagram.com/kstackdev)
+- **Instagram:** [@kabirstack](https://www.instagram.com/kabirstack)
 - **X (formerly Twitter):** [@KabirAsani](https://twitter.com/KabirAsani)
 
 ---
